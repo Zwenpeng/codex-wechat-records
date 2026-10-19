@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信记录助手"
+  short_description: "查询、搜索、导出和分析本机微信记录，支持独立环境及多账号配置管理"
+  default_prompt: "使用 $wechat-records 检查本机配置，并按我指定的聊天对象查询、导出或分析微信记录。"
